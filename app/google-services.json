@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "847130308116",
+    "firebase_url": "https://johnwhite-5b4c3.firebaseio.com",
+    "project_id": "johnwhite-5b4c3",
+    "storage_bucket": "johnwhite-5b4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847130308116:android:8c034cf3aa1f3d25",
+        "android_client_info": {
+          "package_name": "com.ladrope.johnwhite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847130308116-cjclutvi69dne618tbllpt7t1r4j50ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ladrope.johnwhite",
+            "certificate_hash": "9db49aba87766f95c15fe541f486e1dd7d2c31ee"
+          }
+        },
+        {
+          "client_id": "847130308116-7iautbj0se8rurd1a0s13eplk7j75u0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR-yInRU8JlGXXep2mbFu5GAuC9vUIPsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847130308116-7iautbj0se8rurd1a0s13eplk7j75u0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
